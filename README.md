@@ -11,3 +11,7 @@ pip install -r requirements.txt
 ```
 nosetest tests
 ```
+
+Note:
+
+pip3 and nosetests is correct
